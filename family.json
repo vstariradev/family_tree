@@ -1,18 +1,21 @@
-{"born": 1919, "firstname": "", "children": [
-    {"born": 1944, "firstname": "Стойко (Копривщица)", "children": [
-        {"born": 1979, "firstname": "Мария (Копривщица)"},
-        {"born": 1985, "firstname": "Charles"}
-    ]},
-    {"born": 1947, "firstname": "Петко (Копривщица)", "children": [
-        {"born": 1967, "firstname": "Стойчо (Любимец)", "children": [
-            {"born": 1988, "firstname": "Landon"},
-            {"born": 1992, "firstname": "Braden"},
-            {"born": 1997, "firstname": "Heather"},
-            {"born": 2004, "firstname": "Hannah"}
-        ]},
-        {"born": 1969, "firstname": "Васил (Любимец)", "children": [
-            {"born": 2008, "firstname": "Haden"},
-            {"born": 2012, "firstname": "Averie"}
+{"born": 1780, "firstname": "", "children": [
+    {"born": 1800, "firstname": "Стойко", "children": [
+        {"born": 1820, "firstname": "Макария", "children": [
+            {"born": 1840, "firstname": "Стойчо (Египет)", "children": [
+                {"born": 1860, "firstname": "Владимир"}
+            ]} 
         ]}
     ]},
+    {"born": 1800, "firstname": "Петко (Копривщица)", "children": [
+        {"born": 1820, "firstname": "Стойчо (Любимец)", "children": [
+            {"born": 1840, "firstname": "Landon"},
+            {"born": 1840, "firstname": "Braden"},
+            {"born": 1840, "firstname": "Heather"},
+            {"born": 1840, "firstname": "Hannah"}
+        ]},
+        {"born": 1820, "firstname": "Васил (Любимец)", "children": [
+            {"born": 1840, "firstname": "Haden"},
+            {"born": 1840, "firstname": "Averie"}
+        ]}
+    ]}
 ]}
